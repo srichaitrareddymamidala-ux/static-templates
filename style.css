@@ -1,0 +1,967 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.video {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.sub_img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.main_title {
+    font-size: 30px;
+    text-align: center;
+    font-family: "Bree Serif";
+    color: #183b56;
+    padding: 25px;
+}
+
+.sub_head {
+    font-size: 20px;
+    text-align: center;
+    font-family: "Bree Serif";
+    color: #183b56;
+    padding-left: 25px;
+}
+
+.sub {
+    text-align: center;
+    font-family: "Bree Serif";
+    color: #616e7c;
+}
+
+.sec_title {
+    font-size: 25px;
+}
+
+.sec_para {
+    font-size: 20px;
+}
+
+.image {
+    width: 85%;
+}
+
+.pro_img {
+    height: 100vh;
+    background-size: cover;
+}
+
+.food {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+}
+
+.heading {
+    font-family: "Bree Serif";
+}
+
+.para {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.test_card {
+    background-color: #f6c56e;
+    background-size: cover;
+    color: #323f4b;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.button_styling {
+    font-family: "Roboto";
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border-width: 0px;
+    font-size: 14px;
+    margin: 20px;
+}
+
+.button {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 15px;
+
+}
+
+.adv_tech {
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.heading_video {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    padding: 25px;
+    padding-bottom: 1px;
+
+}
+
+.para_video {
+    font-family: "Roboto";
+    color: #323f4b;
+    padding: 25px;
+    padding-top: 0px;
+    padding-bottom: 2px;
+}
+
+.adv_card {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: left;
+    background-color: #ffffff;
+
+}
+
+.button1 {
+    padding: 20px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    background-color: #ffffff;
+    margin: 25px;
+    height: 46px;
+    margin-top: 2px;
+    padding-top: 8px;
+    color: #171f46;
+}
+
+.button2 {
+    padding: 20px;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    background-color: #5752ab;
+    height: 46px;
+    padding-top: 8px;
+    color: #ffffff;
+}
+
+.news_paper {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.news_card {
+    background-color: #ffffff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 1px;
+
+}
+
+.button_news {
+    background-color: #323f4b;
+    color: #ffffff;
+    margin: 25px;
+    border-radius: 8px;
+    padding: 18px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin-top: 15px;
+}
+
+.heading_news {
+    color: #323f4b;
+    font-size: 25px;
+    margin: 25px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+.para1_news {
+    color: #7b8794;
+    margin: 25px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+
+.para2_news {
+    color: #7b8794;
+    margin: 25px;
+    margin-top: 10px;
+    margin-bottom: 2px;
+
+}
+
+.diwali-top-section {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+    width: 100vw;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.hotel {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.hotel_card {
+    background-color: #000000e6;
+    height: 30vh;
+    width: 50vw;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    padding-left: 40px;
+    padding-top: 20px;
+
+
+}
+
+.hotel_button {
+    background-color: #ffffff;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+    color: black;
+    height: 40px;
+    width: 100px;
+    margin-left: 200px;
+    border-width: 0px;
+
+}
+
+.hotel_heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.hotel_para {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: #ffffff;
+
+}
+
+.cricket_top_layer {
+    background-color: #fb4e71;
+    font-family: "Roboto";
+    padding: 20px;
+}
+
+span {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.cricket_top_para {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.cricket_top_image {
+    height: 35vh;
+    width: 30vw;
+}
+
+.cricket_rec_content {
+    background-color: #ffffff;
+    padding-left: 20px;
+    color: #888888;
+    padding-right: 120px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+
+.cricket_rec_card {
+    margin: 20px;
+    height: 130px;
+}
+
+.cricket_records_para {
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+
+.cricket_vid_img {
+    width: 100%;
+    margin: 5px;
+    margin-left: 20px;
+
+}
+
+.cricket_vid_para {
+    font-size: 15px;
+    text-align: left;
+    margin-left: 30px;
+    padding: 3px;
+}
+
+.cricket_button_style {
+    margin: 200px;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+.cricket_video_para {
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 30px;
+    margin: 3px;
+}
+
+.covid_page {
+    font-family: "Roboto";
+    text-align: left;
+    height: 100%;
+    width: 100%;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.covid_top_layer_content {
+    margin: 25px;
+}
+
+.covid_top_head {
+    font-size: 25px;
+    color: #323f4b;
+}
+
+.covid_top_button {
+    background-color: #0967d2;
+    color: white;
+}
+
+.covid_top_image {
+    margin-top: 25px;
+    width: 100%;
+}
+
+.covid_first_cont {
+    background-color: #0967d219;
+    border-radius: 20px;
+    height: 30vh;
+    margin: 25px;
+    margin-top: 5px;
+    padding: 20px;
+}
+
+.covid_first_cont_image {
+    width: 20%;
+    margin: 20px;
+
+}
+
+.covid_first_cont_head {
+    font-size: 20px;
+    color: #323f4b;
+
+}
+
+.covid_first_cont_para {
+    font-size: 10px;
+    color: #707070;
+    font-weight: 500;
+}
+
+.covid_side_head {
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.covid_cont_1 {
+    width: 100%;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.covid_imc {
+    background-color: #3ebd93;
+}
+
+.covid_imf {
+    background-color: #e668a7;
+}
+
+.covid_imh {
+    background-color: #a368fc;
+
+}
+
+.covid_im_c {
+    width: 60%;
+}
+
+.covid_line {
+    color: white;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.covid_vid_image {
+    width: 25vw;
+    height: 30vh;
+    margin: 25px;
+}
+
+.covid_videos {
+    background-color: #e12d3919;
+    margin: 25px;
+    border-radius: 20px;
+    margin-bottom: 25px
+}
+
+.covid_vid_content {
+    margin: 20px;
+    width: 100%;
+}
+
+.movie {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    font-family: "Roboto";
+    margin-top: 20px;
+    width: 100vw;
+}
+
+.movie_pages {
+    height: 100%;
+    width: 100%;
+}
+
+.movie_card {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    background-size: cover;
+    height: 90vh;
+    width: 100vw;
+
+}
+
+.movie_corousel_img {
+    height: 50vh;
+    width: 50vw;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 20px;
+    padding: 23px;
+}
+
+.movie_head {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.movie_button-style {
+    background-color: white;
+    color: #ff8348;
+    height: 45px;
+    width: 150px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+    margin: 10px;
+}
+
+.movie_para {
+    font-size: 17px;
+    color: white;
+    margin: 2px;
+}
+
+.movie_side-head {
+    font-size: 25px;
+    color: white;
+    margin: 20px;
+}
+
+.movie_similar_img {
+    height: 180px;
+    width: 180px;
+    border-radius: 20px;
+    margin: 15px;
+}
+
+.cell_head {
+    color: #0a1f44;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 40px;
+    padding: 10px;
+
+
+}
+
+.cell_lists {
+    color: #0a1f44;
+    font-size: 20px;
+    margin-left: 10px;
+
+
+}
+
+.cell_style {
+    margin-left: 10vw;
+    margin-top: 10px;
+}
+
+.cell_img {
+    height: 45vh;
+    width: 30vw;
+
+
+}
+
+.single-element {
+    margin: 10px;
+}
+
+.cell_page {
+    padding: 10px;
+}
+
+.cell {
+    height: 100vh;
+
+}
+
+.conferance_image {
+    height: 40vh;
+    margin: 20px;
+    width: 80vw;
+
+}
+
+.conferance_para {
+    color: #5a7184;
+    font-size: 20px;
+}
+
+.conferance_first-page {
+    text-align: center;
+    font-family: "roboto";
+}
+
+.conferance_head {
+    font-size: 30px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.conferance_head2 {
+    color: #5a7184;
+    font-size: 30px;
+    margin: 20px;
+}
+
+.conferance_part-head {
+    color: #183b56;
+    font-size: 25px;
+    padding: 10px;
+
+
+}
+
+.conferance_part-para {
+    color: #5a7184;
+    font-size: 12px;
+
+}
+
+.conferance_pagetwo {
+    text-align: center;
+    padding: 10px;
+}
+
+.conferance_cont_para {
+    padding: 25px;
+    padding-right: 10px;
+}
+
+.conf_box {
+    border-style: solid;
+    border-color: black;
+    margin: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+
+}
+
+span {
+    color: #183b56;
+    font-size: 15px;
+}
+
+.conferance_pagetwo {
+    margin: 20px;
+}
+
+.test {
+    background-color: #875fc0;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    padding: 30px;
+    text-align: right;
+
+}
+
+.test_cont_one {
+    background-color: #ffffff;
+    height: 69vh;
+    width: 75vw;
+    border-radius: 20px;
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    margin-top: 20px;
+
+
+}
+
+.test_image {
+    width: 50%;
+    border-radius: 20px;
+}
+
+.test_head {
+    color: #1f2933;
+    font-size: 20px;
+
+}
+
+.test_para {
+    color: #1f2933;
+    font-size: 15px;
+}
+
+.test_score {
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.test_final {
+    background-color: #fbaf00;
+    padding-left: 20px;
+}
+
+.all {
+    background-color: #ffffff;
+    color: #323f4b;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: thin;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.test_ans {
+    background-color: #875fc0;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-left: 1px;
+    padding: 10px;
+    border-style: solid;
+    border-width: thin;
+}
+
+.test_lists {
+    list-style-type: none;
+}
+
+.night_main_page {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+
+}
+
+.night_head {
+    font-size: 25px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    padding-top: 20vh;
+}
+
+.night_para {
+    font-size: 18px;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.night_button {
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: #8e97fd;
+    margin-left: 40vw;
+    color: #ffffff;
+}
+
+.night_image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 40vh;
+    width: 70vw;
+    margin: 18px;
+    border-radius: 20px;
+    margin-left: 15vw;
+    color: #98a1bd;
+    padding-bottom: 100px;
+    margin-top: 200px;
+
+}
+
+.night_page2 {
+    background-color: #03174c;
+    font-family: "Bree Serif";
+    text-align: left;
+    height: 100%;
+    width: 100%;
+
+}
+
+.night_page_para {
+    font-size: 20px;
+    color: #98a1bd;
+    margin: 20px;
+}
+
+.night_page_head {
+    font-size: 25px;
+    color: #ffffff;
+    margin: 20px;
+}
+
+.night_page_img {
+    width: 65%;
+    margin-left: 300px;
+    background-size: cover;
+}
+
+.night_button_style {
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    background-color: #8e97fd;
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.night_sub_img {
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+span {
+    color: #ffffff;
+
+}
+
+.book_head_main {
+    font-size: 28px;
+    color: #ffffff;
+    font-family: "roboto";
+    margin: 20px;
+}
+
+.book_main_page {
+    background-color: #1b1b1b;
+    height: 100%;
+    width: 100%;
+}
+
+.book_box {
+    height: 40vh;
+    width: 80vw;
+    border-radius: 20px;
+    background-color: #e6fcff;
+}
+
+.book_image {
+    height: 240px;
+    width: 200px;
+}
+
+.book_content {
+    padding: 30px;
+}
+
+.book_head {
+    font-size: 18px;
+    color: #183b56;
+    font-family: "roboto";
+
+}
+
+.book_para {
+    font-size: 15px;
+    color: #1b1b1b;
+    font-family: "roboto";
+}
+
+.book_param {
+    font-size: 18px;
+    color: #183b56;
+    font-family: "roboto";
+}
+
+.book_sub_head {
+    font-size: 20px;
+    color: #ffffff;
+    padding-left: 30px;
+}
+
+.book_sub_para {
+    font-size: 18px;
+    color: #9aa5b1;
+    padding-left: 30px;
+}
+
+.book_box1 {
+    height: 40vh;
+    width: 80vw;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+
+.book_button {
+    margin-left: 50px;
+}
+
+.book_sub_image {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin: 20px;
+    padding-left: 55px;
+
+}
+
+.book_box_head {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.book_box_para {
+    color: #9aa5b1;
+    font-size: 18px;
+    font-family: "roboto";
+    text-align: center;
+
+}
+
+.book_box_content {
+    text-align: left;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "roboto";
+    padding-left: 25px;
+}
+
+.book_button1 {
+    background-color: yellow;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    margin-left: 40vw;
+    margin-right: 20px;
+}
+
+.abdulkalam {
+    background-color: #1b1b1b;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+}
+
+.adv_tech {
+    margin-left: 280px;
+    width: 60vw;
+    height: 180vh;
+    background-size: cover;
+    border-style: solid;
+    border-color: black;
+
+}
