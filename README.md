@@ -22,5 +22,5 @@ This project showcases responsive layouts and design experiments created during 
 ##  How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/static-web-templates.git
+   git clone https://github.com/srichaitrareddymamidala-ux/static-templates.git
 
