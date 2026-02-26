@@ -24,3 +24,5 @@ This project showcases responsive layouts and design experiments created during 
    ```bash
    git clone https://github.com/srichaitrareddymamidala-ux/static-templates.git
 
+## 🔗 Live Demo
+View the project here: [Static Templates Demo](https://srichaitrareddymamidala-ux.github.io/static-templates/)
